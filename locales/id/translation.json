@@ -24,7 +24,7 @@
     "forgot-password" : "Lupa sandi",
     "fill-email-password" : "Pos-el dan sandi harus diisi.",
     "still-logged-in" : "Anda sudah masuk, akan diarahkan ke halaman utama.",
-    "failed-login" : "Masuk gagal. 'Kesalahan tidak diketahui.",
+    "failed-login" : "Upaya masuk gagal. Periksa kembali pos-el dan kata sandi Anda!",
     "error-login" : "Terjadi kesalahan, coba lagi nanti."
   },
   "chats" : {

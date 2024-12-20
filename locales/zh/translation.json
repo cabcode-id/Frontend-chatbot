@@ -24,7 +24,7 @@
     "forgot-password" : "忘记密码",
     "fill-email-password": "电子邮件和密码必须填写。",
     "still-logged-in" : "您已登录，将被重定向到主页。",
-    "failed-login": "登录失败。未知错误。",
+    "failed-login": "登入嘗試失敗，請檢查您的電子郵件和密碼！",
     "error-login": "发生错误，请稍后再试。"
   },
   "chats" : {
