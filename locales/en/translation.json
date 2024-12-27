@@ -24,7 +24,7 @@
     "forgot-password" : "Forgot password",
     "fill-email-password" : "Email and password must be filled.",
     "still-logged-in" : "You are logged in, you will be redirected to the main page.",
-    "failed-login": "Login failed. Unknown error.",
+    "failed-login": "Login attempt failed, please check your email and password!",
     "error-login": "An error occurred, please try again later."
   },
   "chats" : {
