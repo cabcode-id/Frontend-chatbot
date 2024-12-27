@@ -242,9 +242,9 @@
             },
           });
           const data = await response.json();
-          const status = data.data.status;
+          const status = data.data.status ?? data.errors.id;
 
-          if (status=="valid") {
+          if (status === "accept_all") {
               valid = true;
               Swal.fire({
                 text: `<%= i18n.t("register.message.success-email-verif")%>`,
